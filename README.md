@@ -100,3 +100,7 @@ def printShow[A](a: A)(implicit s: Show[A]): Unit = {
 printShow("Hello")
 printShow(123)
 ```
+
+## chapter3
+
+## chapter4
